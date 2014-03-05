@@ -1,0 +1,18 @@
+body 
+{
+margin: 0px;
+font-family: Calibri sans-serif;
+font-size: 12pt;
+width: 310px;
+height: 200px;
+text-align: left;
+}
+
+#content
+{
+padding: 20px 20px 20px 20px;
+width: 230px;
+overflow: hidden;
+color: #333333;
+/* border: solid 1px blue; */
+}

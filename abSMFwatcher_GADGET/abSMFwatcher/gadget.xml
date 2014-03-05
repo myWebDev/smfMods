@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+    <name>watcher</name>
+    <version>0.1</version>
+    <author name="andrzej.borowicz.info">
+        <info url="http://andrzej.borowicz.info" />
+    </author>
+	<copyright>&#169; andrzej.borowicz.info</copyright>
+	<description>SMF monitor based on watcher.php</description>
+	<icons>
+	  <icon height="64" width="64" src="i/l.jpg"/>
+	</icons>  
+    <hosts>
+        <host name="sidebar">
+            <base type="HTML" apiVersion="1.0.0" src="main.html" />
+            <permissions>full</permissions>
+            <platform minPlatformVersion="0.3" />
+			<defaultImage src="i/bg.png" />
+        </host>
+    </hosts>
+</gadget>

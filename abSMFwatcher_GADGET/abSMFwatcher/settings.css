@@ -1,0 +1,38 @@
+﻿* 
+{
+margin:0px;
+padding:0px;
+}
+
+body 
+{
+font: normal 14px/16px Segoe UI, Arial;
+width: 500px;
+height: 150px;
+}
+
+p 
+{
+margin: 10px 0px;
+}
+
+small 
+{
+font-size:11px;
+}
+
+#tue, #wed, #thu, #fri, #sat, #sun
+{
+display: none;
+}
+
+.inpts, .inpt { 
+padding: 3px 3px 3px 3px;
+border: solid 1px #333333;
+}
+.inpts { 
+width: 50px; 
+}
+.inpt { 
+width: 280px; 
+}
